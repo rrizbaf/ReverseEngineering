@@ -1,0 +1,9 @@
+{
+    "fmc_ip": "131.226.217.157",
+    "username": "rrizbaf",
+    "password": "hVHYD^16dK!A8sNd",
+    "ftd_devices": [
+        {"name": "FTD1", "ip": "192.168.1.1"},
+        {"name": "FTD2", "ip": "192.168.1.2"}
+    ]
+}
